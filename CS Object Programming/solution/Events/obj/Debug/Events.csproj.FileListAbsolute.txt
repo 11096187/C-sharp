@@ -1,0 +1,29 @@
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\bin\Debug\Events.exe
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\bin\Debug\Events.pdb
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\obj\Debug\Events.frmEvents.resources
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\obj\Debug\Events.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\obj\Debug\Events.exe
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Events\obj\Debug\Events.pdb
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\Events\obj\Debug\Events.exe
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\Events\obj\Debug\Events.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\start\Events\obj\Debug\Events.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\start\Events\obj\Debug\Events.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\Events.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\Events.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\bin\Debug\Events.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\bin\Debug\Events.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\Events.frmEvents.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\Events.Properties.Resources.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Events\obj\Debug\GenerateResource.write.1.tlog
+D:\Courses\VS 2015\labs\CS Object\solution\Events\obj\Debug\Events.exe
+D:\Courses\VS 2015\labs\CS Object\solution\Events\obj\Debug\Events.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\Events\bin\Debug\Events.exe
+D:\Courses\VS 2015\labs\CS Object\solution\Events\bin\Debug\Events.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Object\solution\Events\obj\Debug\Events.frmEvents.resources
+D:\Courses\VS 2015\labs\CS Object\solution\Events\obj\Debug\Events.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Object\solution\Events\obj\Debug\Events.csproj.GenerateResource.Cache

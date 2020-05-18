@@ -1,0 +1,9 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\bin\Debug\Collections.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\bin\Debug\Collections.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\bin\Debug\Collections.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\obj\Debug\Collections.Form1.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\obj\Debug\Collections.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\obj\Debug\Collections.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\obj\Debug\Collections.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Collections\obj\Debug\Collections.pdb

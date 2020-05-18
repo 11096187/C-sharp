@@ -1,0 +1,12 @@
+      ListViewItem li;
+      lvChars.Items.Clear();
+      for (int i = 0; i < 26; i++)
+      {
+        char c = (char)(i + (int)'a');
+        li = lvChars.Items.Add(c.ToString());
+        li.SubItems.Add(counters[i].ToString());
+      }
+      li = lvChars.Items.Add("Spaces");
+      li.SubItems.Add(counters[26].ToString());
+      li = lvChars.Items.Add("Other");
+      li.SubItems.Add(counters[27].ToString());

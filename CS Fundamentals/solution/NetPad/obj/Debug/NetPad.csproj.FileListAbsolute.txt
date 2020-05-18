@@ -1,0 +1,10 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\bin\Debug\NetPad.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\bin\Debug\NetPad.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\bin\Debug\NetPad.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.frmNetPad.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\NetPad\obj\Debug\NetPad.frmAbout.resources

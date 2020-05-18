@@ -1,0 +1,9 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\bin\Debug\Functions.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\bin\Debug\Functions.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\bin\Debug\Functions.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\obj\Debug\Functions.Form1.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\obj\Debug\Functions.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\obj\Debug\Functions.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\obj\Debug\Functions.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Functions\obj\Debug\Functions.pdb

@@ -1,0 +1,29 @@
+    private void WritePersons()
+    {
+      string Filename = "Persons.txt";
+      if (File.Exists(Filename))
+        File.Delete(Filename);
+      var s = new List<String>();
+      foreach (Person p in Persons)
+      {
+        s.Add($"{p.FirstName}:{p.LastName}:{p.Gender.ToString()}");
+      }
+      File.AppendAllLines(Filename, s);
+    }
+    private void ReadPersons()
+    {
+      string Filename = "Persons.txt";
+      if (File.Exists(Filename))
+      {
+        var lines = File.ReadAllLines(Filename);
+        foreach (string line in lines)
+        {
+          var fields = line.Split(':');
+          Person p;
+          p.FirstName = fields[0];
+          p.LastName = fields[1];
+          p.Gender = (GenderType)(Enum.Parse(typeof(GenderType), fields[2]));
+          Persons.Add(p);
+        }
+      }
+    }

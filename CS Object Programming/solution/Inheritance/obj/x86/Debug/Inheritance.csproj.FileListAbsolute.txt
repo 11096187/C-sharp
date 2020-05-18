@@ -1,0 +1,17 @@
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\bin\Debug\Inheritance.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\bin\Debug\Inheritance.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\Inheritance.Form1.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\Inheritance.Properties.Resources.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\Inheritance.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Inheritance\obj\x86\Debug\Inheritance.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\obj\x86\Debug\Inheritance.exe
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\obj\x86\Debug\Inheritance.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\bin\Debug\Inheritance.exe
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\bin\Debug\Inheritance.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\obj\x86\Debug\Inheritance.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\obj\x86\Debug\Inheritance.Form1.resources
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\obj\x86\Debug\Inheritance.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Object\solution\Inheritance\obj\x86\Debug\Inheritance.csproj.GenerateResource.Cache

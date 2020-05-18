@@ -1,0 +1,9 @@
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\ResolveAssemblyReference.cache
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\DynamicEvents.frmDynamicEvents.resources
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\DynamicEvents.frmViewer.resources
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\DynamicEvents.Properties.Resources.resources
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\DynamicEvents.csproj.GenerateResource.Cache
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\bin\Release\DynamicEvents.exe
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\bin\Release\DynamicEvents.pdb
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\DynamicEvents.exe
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Release\DynamicEvents.pdb

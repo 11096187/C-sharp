@@ -1,0 +1,9 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\bin\Debug\CharCounter.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\obj\Debug\CharCounter.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\obj\Debug\CharCounter.Form1.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\obj\Debug\CharCounter.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\obj\Debug\CharCounter.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\bin\Debug\CharCounter.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\bin\Debug\CharCounter.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\obj\Debug\CharCounter.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\CharCounter\obj\Debug\CharCounter.pdb

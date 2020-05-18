@@ -1,0 +1,20 @@
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\bin\Debug\Exceptions.exe
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\bin\Debug\Exceptions.pdb
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\obj\Debug\Exceptions.Form1.resources
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.Cache
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\obj\Debug\Exceptions.exe
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\Exceptions\obj\Debug\Exceptions.pdb
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\Exceptions\obj\Debug\Exceptions.exe
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\Exceptions\obj\Debug\Exceptions.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\start\Exceptions\obj\Debug\Exceptions.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\start\Exceptions\obj\Debug\Exceptions.pdb
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\bin\Debug\Exceptions.exe
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\bin\Debug\Exceptions.pdb
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\obj\Debug\Exceptions.Form1.resources
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\obj\Debug\Exceptions.exe
+D:\Courses\VS 2015\labs\CS Object\start\Exceptions\obj\Debug\Exceptions.pdb

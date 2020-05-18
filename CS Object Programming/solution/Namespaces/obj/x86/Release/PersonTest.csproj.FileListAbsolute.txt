@@ -1,0 +1,5 @@
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Release\PersonTest.Form1.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Release\PersonTest.Properties.Resources.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\bin\Debug\Instances.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\bin\Debug\Instances.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\bin\Debug\Instances.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.Form1.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.frmDialog.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Instances\obj\Debug\Instances.pdb

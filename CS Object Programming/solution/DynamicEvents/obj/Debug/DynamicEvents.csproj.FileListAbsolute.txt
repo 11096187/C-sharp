@@ -1,0 +1,30 @@
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\bin\Debug\DynamicEvents.exe
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\bin\Debug\DynamicEvents.pdb
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.frmDynamicEvents.resources
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.frmViewer.resources
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.Properties.Resources.resources
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.csproj.GenerateResource.Cache
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.exe
+C:\home\courses\VS2008\CD 2008\Visual C# 2008 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\start\DynamicEvents\obj\Debug\DynamicEvents.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\DynamicEvents.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\DynamicEvents.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\bin\Debug\DynamicEvents.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\bin\Debug\DynamicEvents.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\DynamicEvents.frmDynamicEvents.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\DynamicEvents.frmViewer.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\DynamicEvents.Properties.Resources.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\DynamicEvents\obj\Debug\GenerateResource.write.1.tlog
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\bin\Debug\DynamicEvents.exe
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\bin\Debug\DynamicEvents.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.frmDynamicEvents.resources
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.frmViewer.resources
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.exe
+D:\Courses\VS 2015\labs\CS Object\solution\DynamicEvents\obj\Debug\DynamicEvents.pdb

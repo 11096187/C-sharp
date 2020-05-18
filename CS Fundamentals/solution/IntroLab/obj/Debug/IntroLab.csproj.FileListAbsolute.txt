@@ -1,0 +1,9 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\bin\Debug\IntroLab.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\bin\Debug\IntroLab.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\bin\Debug\IntroLab.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\obj\Debug\IntroLab.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\obj\Debug\IntroLab.Form1.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\obj\Debug\IntroLab.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\obj\Debug\IntroLab.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\obj\Debug\IntroLab.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\IntroLab\obj\Debug\IntroLab.pdb

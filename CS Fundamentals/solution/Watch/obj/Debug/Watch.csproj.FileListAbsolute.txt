@@ -1,0 +1,9 @@
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\bin\Debug\Watch.exe.config
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\bin\Debug\Watch.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\bin\Debug\Watch.pdb
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\obj\Debug\Watch.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\obj\Debug\Watch.frmWatch.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\obj\Debug\Watch.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\obj\Debug\Watch.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\obj\Debug\Watch.exe
+D:\Courses\VS 2015\labs\CS Fundamentals\solution\Watch\obj\Debug\Watch.pdb

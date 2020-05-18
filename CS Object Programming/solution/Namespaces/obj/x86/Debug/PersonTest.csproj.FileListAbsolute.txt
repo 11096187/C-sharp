@@ -1,0 +1,35 @@
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\bin\Debug\PersonTest.exe
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\bin\Debug\PersonTest.pdb
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\PersonTest.Form1.resources
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\PersonTest.Properties.Resources.resources
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\PersonTest.exe
+C:\Documents and Settings\Eric\Local Settings\Application Data\Temporary Projects\PersonTest\obj\x86\Debug\PersonTest.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\bin\Debug\Classes.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\bin\Debug\Classes.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\PersonTest.Form1.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\PersonTest.Properties.Resources.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\Classes.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Classes\obj\x86\Debug\Classes.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\Classes.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\Classes.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\bin\Debug\Classes.exe
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\bin\Debug\Classes.pdb
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\PersonTest.Form1.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\PersonTest.Properties.Resources.resources
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eric\Desktop\CD 2010\C# 2010 Object Programming\solution\Namespaces\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\bin\Debug\Classes.exe
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\bin\Debug\Classes.pdb
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\obj\x86\Debug\PersonTest.csprojResolveAssemblyReference.cache
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\obj\x86\Debug\PersonTest.Form1.resources
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\obj\x86\Debug\PersonTest.Properties.Resources.resources
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\obj\x86\Debug\PersonTest.csproj.GenerateResource.Cache
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\obj\x86\Debug\Classes.exe
+D:\Courses\VS 2015\labs\CS Object\solution\Namespaces\obj\x86\Debug\Classes.pdb
